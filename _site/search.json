@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Test test test",
+    "section": "",
+    "text": "Oh hello! Here are some images with classes:\n\nThis works: \n\nThis also works (no caption):\n\n\n\nBut this doesn’t:\n\n\n\n\nThis one is bad"
+  }
+]

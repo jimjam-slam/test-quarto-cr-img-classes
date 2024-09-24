@@ -1,0 +1,22 @@
+---
+title: Test test test
+format: html
+---
+
+Oh hello! Here are some images with classes:
+
+:::{#working}
+This works: ![a caption](trees.png)
+:::
+
+This also works (no caption):
+
+:::{#alsoworking}
+![](trees.png)
+:::
+
+But this doesn't:
+
+:::{#notworking}
+![This one is bad](trees.png)
+:::

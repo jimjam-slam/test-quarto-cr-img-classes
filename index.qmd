@@ -5,6 +5,10 @@ format: html
 
 Oh hello! Here are some images with classes:
 
+::::{.column-screen}
+
+This text is inside the section. But the section itself doesn't seem to get `.column-screen`...
+
 :::{#working}
 This works: ![a caption](trees.png)
 :::
@@ -18,5 +22,7 @@ This also works (no caption):
 But this doesn't:
 
 :::{#notworking}
-![This one is bad](trees.png)
+![This one is breaks things](trees.png)
 :::
+
+::::
